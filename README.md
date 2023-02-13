@@ -1,4 +1,4 @@
-Simple streamlit app to test cookie functionality.
+Simple streamlit app to test cookie functionality. **Requires Python 3.9 or newer to run.**
 
 ## Setup
 After cloning the repository onto your local machine (preferably under a virtual environment) go into the root directory and install the required packages using 
