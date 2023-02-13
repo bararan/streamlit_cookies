@@ -8,8 +8,6 @@ cookies = EncryptedCookieManager(
 if not cookies.ready():
     st.stop()
 
-st.write(int(st.__version__.split('.')[1])>=18)
-
 try:
     v1 = int(cookies["one"])
     v2 = int(cookies["two"])
